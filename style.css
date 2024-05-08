@@ -1,0 +1,118 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #EFF2C0;
+    background-color: #EFF2C0;
+    margin: 5%;
+    color: #983628;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos del encabezado */
+.enca {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.enca img{
+    width: 250px;
+}
+
+.enca h1 {
+    color: #983628 ;
+    font-size:40px;
+    font-family: "Sevillana", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.cuento {
+    margin-bottom: 30px;
+}
+
+.cuento p {
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 22px;
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.imga {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.imga img {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.cuento2 img,
+.cuento3 img,
+.cuento4 img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+
+}
+
+footer {
+    text-align: center;
+    color: #777;
+    margin-top: 30px;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.enca img{
+    border-radius: 50% ;
+}
+.footer h2{
+    text-align: center;
+    font-size:40px ;
+    font-family: "Sevillana", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.moraleja h2{
+    text-align: center;
+    color: #04151F ;
+    font-size:40px;
+    font-family: "Sevillana", cursive;
+  font-weight: 400;
+  font-style: normal; 
+}
+.moraleja p{
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 22px;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #04151F;
+}
+
+.moraleja img{
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
